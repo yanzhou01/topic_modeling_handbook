@@ -1,5 +1,4 @@
 # Table of contents
 
-* [序][1]
+* [序](README.md)
 
-[1]:	README.md
